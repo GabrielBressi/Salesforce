@@ -7,7 +7,7 @@ This is a repository about salesforce practices. Here I'll post things that I'm 
 1# Open your org, hit the gear icon, then hit the Setup:
 <!-- 1# img here -->
 
-2# In the Quick Find Box put "Web", then click Web-to-Case. Choose the template, and create your Email Signature, as you can in the image below:
+2# In the Quick Find Box put "Web", then click Web-to-Case. Choose the template, and create your Email Signature, as you can see in the image below:
 <!-- 2# img here -->
 
 3# Below the "Web-to-Case" click in "Web-to-Case HTML Generator:
