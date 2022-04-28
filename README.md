@@ -5,7 +5,7 @@ This is a repository about salesforce practices. Here I'll post things that I'm 
 ## Here I'm going to demonstrate how to insert Cases via form from your Web Browser.
 
 1# Open your org, hit the gear icon, then hit the Setup:
-<!-- 1# img here -->
+![alt text](https://github.com/GabrielBressi/Salesforce/blob/main/img/WebToCase/1%23.png)
 
 2# In the Quick Find Box put "Web", then click Web-to-Case. Choose the template, and create your Email Signature, as you can see in the image below:
 <!-- 2# img here -->
