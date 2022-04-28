@@ -20,10 +20,10 @@ This is a repository about salesforce practices. Here I'll post things that I'm 
 6# Paste the generated HTML in your favorite text editor (Here I used the Visual Studio Code), Then save the file as "WebToCase.html":
 ![alt text](https://github.com/GabrielBressi/Salesforce/blob/main/img/WebToCase/6%23.png)
 
-7# Open the file that you just saved, and it might looks like this:
+7# Open the file that you just saved, and it might looks like this: <br/>
 ![alt text](https://github.com/GabrielBressi/Salesforce/blob/main/img/WebToCase/7%23.png)
 
-7.1# Fill in the fields as in the following example:
+7.1# Fill in the fields as in the following example: <br/>
 ![alt text](https://github.com/GabrielBressi/Salesforce/blob/main/img/WebToCase/7.1%23.png)
 
 8# Now Check the Cases in you Salesforce Org. You'll see the Case that we just created:
