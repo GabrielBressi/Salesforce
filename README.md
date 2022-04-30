@@ -30,4 +30,4 @@ This is a repository about salesforce practices. Here I'll post things that I'm 
 ![alt text](https://github.com/GabrielBressi/Salesforce/blob/main/img/WebToCase/8%23.png)
 
 9# BONUS. Here is the form with a better style:
-![alt text](https://github.com/GabrielBressi/Salesforce/blob/main/img/WebToCase/9%23.png)
+![alt text](https://github.com/GabrielBressi/Salesforce/blob/main/img/WebToCase/9%23.gif)
