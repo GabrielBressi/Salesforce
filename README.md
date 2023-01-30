@@ -1,5 +1,4 @@
 # Salesforce
-This is a repository about salesforce practices. Here I'll post things that I'm studying and improving.
 
 # How to create a Form that you can access on your Web Browser, and insert data into Salesforce?
 ## Here I'm going to demonstrate how to insert Cases via form from your Web Browser.
